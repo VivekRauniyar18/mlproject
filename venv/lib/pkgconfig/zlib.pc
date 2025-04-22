@@ -1,0 +1,13 @@
+prefix=/Users/vivekrauniyar/Documents/Python_DS/MLproject/venv
+exec_prefix=/Users/vivekrauniyar/Documents/Python_DS/MLproject/venv
+libdir=/Users/vivekrauniyar/Documents/Python_DS/MLproject/venv/lib
+sharedlibdir=/Users/vivekrauniyar/Documents/Python_DS/MLproject/venv/lib
+includedir=/Users/vivekrauniyar/Documents/Python_DS/MLproject/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
