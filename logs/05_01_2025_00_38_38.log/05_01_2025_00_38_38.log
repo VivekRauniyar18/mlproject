@@ -1,0 +1,4 @@
+[2025-05-01 00:38:38,354] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-05-01 00:38:38,361] 97 werkzeug - INFO -  * Debugger PIN: 137-229-518
+[2025-05-01 00:38:44,169] 97 werkzeug - INFO - 127.0.0.1 - - [01/May/2025 00:38:44] "POST /predictdata HTTP/1.1" 200 -
+[2025-05-01 00:38:46,437] 97 werkzeug - INFO - 127.0.0.1 - - [01/May/2025 00:38:46] "POST /predictdata HTTP/1.1" 200 -
